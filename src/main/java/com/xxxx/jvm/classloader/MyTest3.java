@@ -1,4 +1,4 @@
-package main.java.com.xxxx.jvm.classloader;
+package com.xxxx.jvm.classloader;
 
 import java.util.UUID;
 

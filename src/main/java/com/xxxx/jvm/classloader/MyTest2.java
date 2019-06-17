@@ -1,4 +1,4 @@
-package main.java.com.xxxx.jvm.classloader;
+package com.xxxx.jvm.classloader;
 
 /**
  * 常量在编译阶段会存入到调用这个常量的方法所在的类的常量池中，

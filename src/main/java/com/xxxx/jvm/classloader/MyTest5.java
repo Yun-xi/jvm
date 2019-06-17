@@ -1,4 +1,4 @@
-package main.java.com.xxxx.jvm.classloader;
+package com.xxxx.jvm.classloader;
 
 /**
  * 当一个接口在初始化时，并不要求其父接口都完成了初始化
